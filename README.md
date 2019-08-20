@@ -1,9 +1,12 @@
 # windovi
-windows docker VirtualBox 
+windows docker VirtualBox  
 Windows 10 switch between Docker and VirtualBox
 
 ## How to use it
 Execute the script as administrator and reboot the machine.
+
+## Why?
+I couldn't start a Virtualbox anymore after installing docker.
 
 ## Not my code
 Just script's to switch between Docker and VirtualBox.
